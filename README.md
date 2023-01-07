@@ -5,7 +5,7 @@ django admin.exe startproject PROJECTNAME
 After creating project,
    __init__.py
    asgi.py
-   settimgs.py
+   settings.py
     .   
      . 
     ...manage.py 
